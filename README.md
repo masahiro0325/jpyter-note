@@ -1,1 +1,1 @@
-# jpyter-note
+# jupyter-note
