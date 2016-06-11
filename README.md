@@ -1,1 +1,1 @@
-# jupyter-note
+# jupyter-notebook for me
